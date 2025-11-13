@@ -74,7 +74,9 @@ The tool is built using **Python**, **NumPy**, **Matplotlib**, and **ipywidgets*
 ---
 
 ## ⚡ Run Locally
+## ⚡ Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-url>
+1. Clone this repository or download the ZIP file.  
+2. Install required packages: `pip install numpy matplotlib scipy ipywidgets`  
+3. Open the notebook and run all cells.
+
